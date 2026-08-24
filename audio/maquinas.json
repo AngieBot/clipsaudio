@@ -1,0 +1,9 @@
+[
+  {"url":"teneria/Descarnadora01.wav", "type":"audio","bank":"teneria","n":0},
+  {"url":"teneria/Descarnadora02.wav", "type":"audio","bank":"teneria","n":1},
+  {"url":"teneria/Descarnadora03.wav", "type":"audio","bank":"teneria","n":2},
+  {"url":"sapal/bombaSapal01.wav", "type":"audio","bank":"sapal","n":0},
+  {"url":"sapal/bombaSapal02.wav", "type":"audio","bank":"sapal","n":1},
+  {"url":"viento/Campanas01.wav", "type":"audio","bank":"viento","n":0},
+  {"url":"viento/Campanas02.wav", "type":"audio","bank":"viento","n":1}
+]
